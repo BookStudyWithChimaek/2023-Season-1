@@ -33,6 +33,6 @@
 * 08.29 20:00 ~ 22:00 : https://meet.google.com/jhs-tbfe-kya
 * 09.05 20:00 ~ 22:00 : https://meet.google.com/csx-tgez-gvv
 * 09.12 20:00 ~ 22:00 : https://meet.google.com/ezj-qzug-jyi
-* 09.17 20:00 ~ 22:00 : https://meet.google.com/bwe-phrg-nue
-* 09.24 19:00 ~ 20:00 : offline
+* 09.19 20:00 ~ 22:00 : https://meet.google.com/bwe-phrg-nue
+* 09.26 19:00 ~ 20:00 : offline
   * Agenda : 치맥 데이! 
