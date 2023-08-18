@@ -26,3 +26,13 @@
 ## 모집 마감
 - 2023년 8월 15일 (화요일)
 - 6명 모이거나 시간 다되면 마감
+
+## 모임 목록 
+* 08.22 20:00 ~ 22:00 : https://meet.google.com/otk-xqoz-bre
+  * Agenda : 각자 책 소개 + 진행 계획 공유
+* 08.29 20:00 ~ 22:00 : https://meet.google.com/jhs-tbfe-kya
+* 09.05 20:00 ~ 22:00 : https://meet.google.com/csx-tgez-gvv
+* 09.12 20:00 ~ 22:00 : https://meet.google.com/ezj-qzug-jyi
+* 09.17 20:00 ~ 22:00 : https://meet.google.com/bwe-phrg-nue
+* 09.24 19:00 ~ 20:00 : offline
+  * Agenda : 치맥 데이! 
